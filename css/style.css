@@ -1,0 +1,21 @@
+div{}
+th{
+    text-transform: capitalize;
+    color: #ffe9e9;
+    background: #7d6536;
+    width: 30px;
+}
+table{margin: auto;}
+tr{
+    text-align: center;
+    /* text-transform: uppercase; */
+}
+td{
+    color: #231d1e;
+}
+h1{
+    text-align: center;
+    text-transform: capitalize;
+    color: #5f353c;
+    /* background: aqua; */
+}
